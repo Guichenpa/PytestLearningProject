@@ -1,0 +1,48 @@
+{
+  "name": "test_post",
+  "status": "passed",
+  "description": "\n    测试post接口\n    :return:\n    ",
+  "attachments": [
+    {
+      "name": "log",
+      "source": "62e2272d-9f0d-467f-b452-3a00dcd40755-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1695579774042,
+  "stop": 1695579775088,
+  "uuid": "a39a9087-34ad-4bf9-beb7-9e8b91361583",
+  "historyId": "9ef3d1a7ce2633f687aec6dfa74642f3",
+  "testCaseId": "9ef3d1a7ce2633f687aec6dfa74642f3",
+  "fullName": "testcases.test_one#test_post",
+  "labels": [
+    {
+      "name": "parentSuite",
+      "value": "testcases"
+    },
+    {
+      "name": "suite",
+      "value": "test_one"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-08F1FQ7"
+    },
+    {
+      "name": "thread",
+      "value": "22648-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "testcases.test_one"
+    }
+  ]
+}

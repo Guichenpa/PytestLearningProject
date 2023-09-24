@@ -1,0 +1,34 @@
+hero:
+  name: Zard
+  words: 那你无敌了呀
+  hp: 100
+
+moblie_belong:
+  - 13947948806
+
+hero_name:
+  - Zard
+  - white3Zz
+  - Uzi
+
+
+heros:
+  - name: Zard
+    words: 那你无敌了呀
+    hp: 100
+  - name: white3Zz
+    words: 我真的没有开挂
+    hp: 100
+hero_name_list:
+  - - Zard
+    - white3Zz
+    - Uzi
+
+
+herosall:
+  - - Zard
+    - 那你无敌了呀
+  - - white3Zz
+    - 我真的没有开挂
+
+json_data: { title: foo,body: bar,userId: 1 }

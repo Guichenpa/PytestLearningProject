@@ -1,0 +1,24 @@
+{
+  "uuid": "d819011e-a920-4805-8aa9-b9bcd970ccb9",
+  "children": [
+    "e5678b0a-322f-4ab1-a36f-5081b49267e1"
+  ],
+  "befores": [
+    {
+      "name": "FrontAfterPrint",
+      "status": "passed",
+      "start": 1695579520457,
+      "stop": 1695579520457
+    }
+  ],
+  "afters": [
+    {
+      "name": "FrontAfterPrint::0",
+      "status": "passed",
+      "start": 1695579521400,
+      "stop": 1695579521401
+    }
+  ],
+  "start": 1695579520457,
+  "stop": 1695579521401
+}

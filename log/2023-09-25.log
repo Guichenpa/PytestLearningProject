@@ -1,0 +1,70 @@
+[2023-09-25 00:31:19,077][log_util.py 40][DEBUG]: 我打印debug日志
+[2023-09-25 00:31:19,077][log_util.py 41][INFO]: 我打印info日志
+[2023-09-25 00:31:19,077][log_util.py 42][WARNING]: 我打印warning日志
+[2023-09-25 00:31:19,077][log_util.py 43][ERROR]: 我打印error日志
+[2023-09-25 00:35:46,555][test_post.py 8][INFO]: 开始执行test_post
+[2023-09-25 00:35:48,471][test_post.py 12][INFO]: 执行完毕
+[2023-09-25 00:36:11,730][test_post.py 8][INFO]: 
+开始执行test_post
+[2023-09-25 00:36:12,713][test_post.py 12][INFO]: 
+执行完毕
+[2023-09-25 00:37:10,001][test_post.py 13][INFO]: 
+开始执行test_post
+[2023-09-25 00:37:10,926][test_post.py 17][INFO]: 
+执行完毕
+[2023-09-25 00:37:29,740][test_post.py 13][INFO]: 开始执行test_post
+[2023-09-25 00:37:30,995][test_post.py 17][INFO]: 执行完毕
+[2023-09-25 01:24:45,643][test_post.py 13][INFO]: 开始执行test_post
+[2023-09-25 01:24:45,645][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 01:24:45,646][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 01:24:45,646][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2023-09-25 01:24:46,566][test_post.py 17][INFO]: 执行完毕
+[2023-09-25 01:27:50,493][conftest.py 8][INFO]: 测试用例开始运行
+[2023-09-25 01:27:50,496][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 01:27:50,496][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 01:27:50,496][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2023-09-25 01:27:51,481][conftest.py 10][INFO]: 测试用例执行结束
+[2023-09-25 02:18:40,457][conftest.py 8][INFO]: 测试用例开始运行
+[2023-09-25 02:18:40,459][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 02:18:40,459][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 02:18:40,459][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2023-09-25 02:18:41,399][conftest.py 10][INFO]: 测试用例执行结束
+[2023-09-25 02:20:02,755][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 02:20:02,755][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 02:20:02,755][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2023-09-25 02:22:33,230][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 02:22:33,230][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 02:22:33,230][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2023-09-25 02:22:54,044][rest_client.py 48][INFO]: 接口请求的地址>>>https://jsonplaceholder.typicode.com/posts
+[2023-09-25 02:22:54,044][rest_client.py 49][INFO]: 接口请求的方法>>>POST
+[2023-09-25 02:22:54,044][rest_client.py 53][INFO]: 接口请求的json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
